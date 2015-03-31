@@ -1,0 +1,116 @@
+PÁGINA DEL CURSO ANDROID CASTELLANO
+
+
+Ingeniero de Telecomunicación, Marc ha estado desarrollando software más de 12 años. Empezó con ensamblador en la Universidad, y pasó varios años programando en C/C++ para entornos Linux/FLOSS. En los últimos años ha estado dedicado al nuevo universo de dispositivos móviles, trabando en el dinámico entorno de programación de tablets y smartphones. Ahora, con esta sólida base de conocimientos, ha emprendido una nueva y titánica tarea: la de enseñar Android a todo el mundo
+
+
+Otro ingeniero de Telecomunicación, José Manuel lleva en el mundo del e-learning más de 8 años. Ha trabajado en el desarrollo de tecnología punta para el diseño y producción de cursos MOOC, y ha colaborado en el lanzamiento de la plataforma de cursos MOOC de la UPV, actualmente una de las 5 universidades con más cursos publicados en EdX. En estos años José ha aprendido muy bien lo que se necesita para hacer un curso online realmente sobresaliente: práctico, divertido y que enganche. Listo para inyectar el conocimento a la comunidad de alumnos.
+
+
+SOBRE EL CURSO
+
+Todo el mundo tiene un móvil, y cada vez más es un smartphone; y cerca del 80% de ellos funciona con Android. Todos los días aparecen nuevas aplicaciones para móviles de multitud de cosas diferentes. Algunas son más sencillas y otras más potentes. Incluso hay aplicaciones que llegan a valer miles de millones.
+
+En este curso aprenderás todo lo necesario para trabajar de programador Android. Partiendo desde 0. A tu ritmo. Aprendiendo sobre la marcha mientras creas aplicaciones de nivel profesional.
+
+Aprendiendo a programar en Android podrás aprender una profesión de futuro, podrás ganar dinero en tu tiempo libre y depender de ti mismo. Y, quién sabe, quizá crees la próxima App del millón de dólares.
+
+A través de una serie de aplicaciones que irás programando, te iremos contando, poco a poco, y sobre la marcha, todo lo que necesitas saber para trabajar de programador Android. Porque así es como mejor se aprende, sobre la marcha y aplicando lo aprendido.
+
+
+
+PARTES DEL CURSO
+
+0. Introducción al curso
+1.Introducción a Android: aplicación Adiós Mundo. Introducción
+- Instalación y configuración del JDK y el Android Studio; Configuración del móvil en modo desarrollador; Aplicación Adios Mundo: crear un proyecto, complicarlo y lanzar la aplicación; las activities y las aplicaciones móviles; arquitectura del sistema
+5.1. Crear un proyecto, compilarlo y lanzar la aplicación. ->v6
+5.2. Las activities y el paradigma de aplicaciones móviles. ->v7
+6. ¿Qué es lo que ha pasado?: el sistema Android.
+6.1. Arquitectura del sistema.->v9
+6.2. Compilación, Bytecode, Dalvik.->
+6.3. El Hardware que hay debajo: ordenadores vs. sistemas empotrados.->
+
+      7. Dónde está la documentación sobre Android, y cómo usarla.
+	      8.1. Las diferentes secciones de developer.android.com.->v10
+	      8.2. La aplicación ApiDemos. Importación, compilación y ejecución.
+	      8.3. Stackoverflow y Google para todo lo demás.
+
+      9. Conclusiones. ->v11
+
+2. Aprendiendo a programar: completar la aplicación Adiós Mundo
+3. Capturando imágenes: app de Facebook.
+4. Compartiendo con el mundo: acabando la app de Facebook.
+5. Ampliaciones y desafíos de la app de Facebook.
+6. Programando mejor: una app de eBay (con esteroides).
+7. Trabajando en las nubes: añadiendo localización y servicios cloud a la app de eBay.
+8. Ampliaciones y desafíos de la app de eBay.
+9. Más sociales todavía: una app de Whatsapp.
+10. Finalizando la app de Whatsapp.
+11.  Ampliaciones y desafíos.
+12. Servidor y cliente móviles de streaming de vídeo con Realidad Aumentada.
+13. Añadiendo la Realidad Aumentada.
+14.  Ampliaciones y desafíos.
+15. Control de calidad del SW en Android:
+16. Mejores prácticas recomendadas por Google Play.
+17. Conclusiones del curso.
+
+
+
+
+
+
+
+
+
+
+
+
+- Por qué es importante  -- Android supone el 80% de los terminales móviles
+- Los beneficios de saber programar Android -- ganar dinero en tu tiempo libre
+												- depender de ti
+												- aprender una profesión con futuo
+												- crear la próxima aplicación en que valga un millón de dólares
+- Descripión del curso
+- Aprende on-the-go
+- Programa
+		- Instalación y coniguración, SDK, Android Studio
+		- Hola Mundo
+		- Arquitectura del sistema
+		- Java. Programación Estructurada. Programación OO
+		- GUIs, Widgets, callbacks, events, XML, Activities and Intents
+		- Manifest, permissions, memory persistence
+		- Debugging, logcat
+		- Sensors, GPS, sound, LEDs, Camera
+		- Internet communications
+		- AsyncTask, Concurrence, threading
+		- Facebook API and authentication
+		- Advanced widgets, dialogs, Menus
+		- Deployment, Google Store, jar, apk
+		- Coding Patterns, MVC, UML
+		- Content providers
+		- SQL, SQLite
+		- JNI, NDK
+		- XML, JSON, RESTful, Push Notifications
+		- Best Practices, UX, Performance, Security, Battery, QA
+
+Android represents over 80% of smartphone market, so 
+
+
+
+
+Vídeo 0
+
+- Bienvenidos a este curso de Desarrollador de Android
+- Yo soy Marc y yo soy Jose
+- En este cursos vais a aprender a desarrollar aplicaciones móviles sobre Android
+- El nivel del curso parte desde 0, es decir, sin conocimientos de programación previos, hasta un nivel adecuado para trabajar profesionamente desarrollando aplicaciones en Android
+- Este curso consta de vídeos cortos --> creando diferentes aplicaciones y aprendiendo conceptos de programación sobre la marcha
+- Todo esto se hará sobre la marcha, onthe go etc. para que el curso sea más ameno y práctico.
+- Este curso está destinado a todas aquellas personas que tengan inquietud por la tecnología y quieran trabajar en un sector de futuro como es el sistema operativo Android.
+- El curso está estructurado en una serie de vídeos.
+- Entre los vídeos encontrarés pequeños quizzes, así como tareas guiadas y también desafíos que tendréis que programar vosotros.
+- Dispondréis de un foro donde comentar las cuestiones relativas al curso.
+- El temario completo que vamos a ver en el curso lo podéis ver en el siguiente punto, pero os adelanto que vamos a ver todas las tecnologías que se utilizan habitualmente en el desarrollo profesional.
+- Para este vídeo vais a necesitar un ordenador y un móvil con cable USB para conectarlo al ordenador.
+
